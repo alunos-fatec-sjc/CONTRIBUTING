@@ -1,4 +1,4 @@
-# CONTRIBUTING
+# Contribuindo
 
 Então, para adicionar coisinhas nos repositórios a recomendação é fazer um fork do repositório ou criar um branch se você tiver permissão para isso, fazer suas alterações e depois abrir um _pull request_ para a branch `master` do repositório desejado.
 
